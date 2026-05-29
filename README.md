@@ -27,6 +27,7 @@ and planning to pursue an **MSc in Cybersecurity**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Frameworks**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -34,6 +35,7 @@ and planning to pursue an **MSc in Cybersecurity**.
 
 
 **Areas of Interest**
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4B4B?style=flat&logo=hackthebox&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat&logo=cisco&logoColor=white)
 ![IT Consulting](https://img.shields.io/badge/IT_Consulting-00897B?style=flat&logo=google-cloud&logoColor=white)
