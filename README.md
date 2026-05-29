@@ -44,5 +44,5 @@ and planning to pursue an **MSc in Cybersecurity**.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/davide-capasso-442a81267/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/davide-capasso-442a81267/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:davidecapasso3@gmail.com)
