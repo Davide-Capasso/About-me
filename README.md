@@ -9,7 +9,7 @@ and planning to pursue an **MSc in Cybersecurity**.
 
 - 🔐 Passionate about network security, ethical hacking & defense
 - 🌐 Exploring IT consulting & enterprise security
-- 📚 Currently studying: Networks, TCP/IP, Security Protocols
+- 📚 Currently studying: Networks, TCP/IP, Security Protocols, IS & SRS
 - 🎯 Goal: MSc in Cybersecurity · IT Security Consultant
 - 📍 Based in Italy
 
